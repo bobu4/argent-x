@@ -79,7 +79,7 @@ export const defaultNetworks: Network[] = [
     id: "mainnet-alpha",
     name: "Mainnet",
     chainId: "SN_MAIN",
-    rpcUrl: "https://cloud.argent-api.com/v1/starknet/mainnet/rpc/v0.6",
+    rpcUrl: "https://starknet-mainnet.core.chainstack.com/93f8411ee272b821668c42dfd02492d9",
     explorerUrl: "https://voyager.online",
     l1ExplorerUrl: "https://etherscan.io",
     accountClassHash: {
